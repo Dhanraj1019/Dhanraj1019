@@ -12,9 +12,9 @@ Email Me 👉 ✉️ **choudharydhanraj714@gmail.com** For Collaboration/Project
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Dhanraj1019&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
